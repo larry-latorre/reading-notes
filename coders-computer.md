@@ -34,3 +34,5 @@ Integrated Development Environments (IDEs), such as Visual Studio, Eclipse, or I
 3. touch new-project/newfile.md - Creates a file named newfile.md in the new-project directory
 4. cd .. - Moves the directory back one directory to projects
 5. ls projects/new-project - Lists contents of new-project
+
+[https://larry-latorre.github.io/reading-notes](https://larry-latorre.github.io/reading-notes/coders-computer)
