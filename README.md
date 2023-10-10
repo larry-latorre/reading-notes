@@ -1,4 +1,5 @@
 # reading-notes
+
 ## Growth mindset
 
 For me growth mind set is a rewiring of the way we think about learning. By changing the way we approach **challeges, obstacles, effort,criticisms** and how we learn from others.
