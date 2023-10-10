@@ -19,7 +19,7 @@ Integrated Development Environments (IDEs), such as Visual Studio, Eclipse, or I
 3. a nice variety of themes (to reduce eye strain and fatigue)
 4. the ability to choose from a healthy selection of extensions available when you need them.
 
-### Examples of command used in the command line 
+### Examples of command used in the command line
 
 * pwd - prints the name of the working directory
 * ls - list contents of current directory
@@ -27,7 +27,7 @@ Integrated Development Environments (IDEs), such as Visual Studio, Eclipse, or I
 * mkdir - creates a new directory in the current working directory
 * touch - creates a new file in the current working directory
 
-### Example scenario 
+### Example scenario
 
 1. cd projects - Changes current directory to projects directory
 2. mkdir new-project - Creates a new directory named new-projects
