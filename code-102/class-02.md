@@ -1,11 +1,13 @@
-# Learning Markdown For Beginner's 
+# Learning Markdown For Beginner's
 
 Markdown is a simple way to format text on a computer, and you don't need to know how to code to use it. It's like a set of easy-to-remember instructions for styling your text. Here's a beginner-friendly explanation of how to use Markdown:
 
 **Headers**: To create headings or titles, use hashtags #. The more hashtags you use the smaller the heading. example:
 
-* # This is a big title
+* ## This is a big title
+
 * ## This is a smaller heading
+
 * ### This is an even smaller heading
 
 **Text Formatting**:
