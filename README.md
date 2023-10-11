@@ -1,4 +1,10 @@
-# Table of Contents
+# Intro
+
+Hello! I am an aspiring software developer with a passion for crafting elegant and efficient solutions to complex problems in the digital realm.   I am dedicated to becoming a proficient developer who not only writes code but also designs innovative, user-friendly software that enhances the lives of others. 
+
+This site contains all of my reading notes from my software development class.
+
+## Table of Contents
 
 ## Code 102 Reading Notes
 
