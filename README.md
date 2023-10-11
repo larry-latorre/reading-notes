@@ -1,6 +1,6 @@
 # Intro
 
-Hello! I am an aspiring software developer with a passion for crafting elegant and efficient solutions to complex problems in the digital realm.   I am dedicated to becoming a proficient developer who not only writes code but also designs innovative, user-friendly software that enhances the lives of others. 
+Hello! I am an aspiring software developer with a passion for crafting elegant and efficient solutions to complex problems in the digital realm.   I am dedicated to becoming a proficient developer who not only writes code but also designs innovative, user-friendly software that enhances the lives of others.
 
 This site contains all of my reading notes from my software development class.
 
@@ -14,7 +14,7 @@ This site contains all of my reading notes from my software development class.
 
 3. [Revisions To The Cloud](code-102/class-03.md)
 
-4. [Fourth Example](code-102/class-04.md)
+4. [Structure web pages with HTML](code-102/class-04.md)
 
 5. [Fourth Example](code-102/class-05.md)
 
