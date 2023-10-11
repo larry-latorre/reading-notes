@@ -34,4 +34,4 @@ After staging one or multiple files, you should commit the changes and record wh
 Next, you would push changes to a remote repository. We will discuss remote repositories in more depth in the next section. For now, we will look at a general overview of pushing changes to remotes.
 
 Example:
-**git push origin master**
+**git push origin main**
