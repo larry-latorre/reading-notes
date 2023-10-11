@@ -16,13 +16,13 @@ This site contains all of my reading notes from my software development class.
 
 4. [Structure web pages with HTML](code-102/class-04.md)
 
-5. [Fourth Example](code-102/class-05.md)
+5. [Fifth Example](code-102/class-05.md)
 
-6. [Fourth Example](code-102/class-06.md)
+6. [sixth Example](code-102/class-06.md)
 
-7. [Fourth Example](code-102/class-07.md)
+7. [seventh Example](code-102/class-07.md)
 
-8. [Fourth Example](code-102/class-08.md)
+8. [eighth Example](code-102/class-08.md)
 
 ## code 201 Reading Notes
 
