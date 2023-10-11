@@ -12,7 +12,7 @@ This site contains all of my reading notes from my software development class.
 
 2. [Learning Markdown For Beginner's](code-102/class-02.md)
 
-3. [Third Example](code-102/class-03.md)
+3. [Revisions To The Cloud](code-102/class-03.md)
 
 4. [Fourth Example](code-102/class-04.md)
 
