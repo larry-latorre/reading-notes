@@ -12,6 +12,8 @@ Designing with CSS (Cascading Style Sheets) is a way to make web pages look attr
 
 5. View in the Browser: After you've created and linked your CSS file, open your HTML document in a web browser. You'll see your chosen elements styled according to the CSS rules you've defined.
 
+## Questions
+
 ### What is the purpose of CSS?
 
 CSS is a way to make web pages look attractive and well-organized.
