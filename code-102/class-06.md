@@ -14,18 +14,18 @@ A dynamic web page with JavaScript is like a digital magic trick for websites. I
 
 In a nutshell, dynamic web pages with JavaScript make websites more interactive and responsive, allowing them to adapt and change in real-time as you interact with them. It's what makes modern web applications, like social media, online shopping, and games, so engaging and user-friendly.
 
-## What are variables in JavaScript?
+### What are variables in JavaScript?
 
 Variables are Containers for Storing Data.
 
-## What does it mean to declare a variable?
+### What does it mean to declare a variable?
 
 Declaration of a variable is a statement used to specify the variable name and its data type.
 
-## What is an “assignment” operator, and what does it do?
+### What is an “assignment” operator, and what does it do?
 
 The assignment operator = assigns the value of its right-hand operand to a variable, a property, or an indexer element given by its left-hand operand.
 
-## What is information received from the user called?
+### What is information received from the user called?
 
 Input.

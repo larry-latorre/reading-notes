@@ -12,17 +12,17 @@ Designing with CSS (Cascading Style Sheets) is a way to make web pages look attr
 
 5. View in the Browser: After you've created and linked your CSS file, open your HTML document in a web browser. You'll see your chosen elements styled according to the CSS rules you've defined.
 
-## What is the purpose of CSS?
+### What is the purpose of CSS?
 
 CSS is a way to make web pages look attractive and well-organized.
 
-## What are the three ways to insert CSS into your project?
+### What are the three ways to insert CSS into your project?
 
 1. Link CSS file to HTML File
 2. You can use a `<style>` tag.
 3. Inline css goes inside of the element tag you want to style
 
-## Write an example of a CSS rule that would give all `<p>` elements red text
+### Write an example of a CSS rule that would give all `<p>` elements red text
 
 p{
     color: red;
