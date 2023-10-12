@@ -16,7 +16,7 @@ This site contains all of my reading notes from my software development class.
 
 4. [Structure web pages with HTML](code-102/class-04.md)
 
-5. [Fifth Example](code-102/class-05.md)
+5. [Design web pages with CSS](code-102/class-05.md)
 
 6. [sixth Example](code-102/class-06.md)
 
