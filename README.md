@@ -8,7 +8,7 @@ This site contains all of my reading notes from my software development class.
 
 ## Code 102 Reading Notes
 
-1. [Text editor vs Coding-specific text editor  VS IDE](code-102/class-01.md)
+1. [Text editor vs Coding-specific text editor VS IDE](code-102/class-01.md)
 
 2. [Learning Markdown For Beginner's](code-102/class-02.md)
 
@@ -18,11 +18,11 @@ This site contains all of my reading notes from my software development class.
 
 5. [Design web pages with CSS](code-102/class-05.md)
 
-6. [sixth Example](code-102/class-06.md)
+6. [Dynamic web pages with JavaScript](code-102/class-06.md)
 
-7. [seventh Example](code-102/class-07.md)
+7. [Programming with JavaScript](code-102/class-07.md)
 
-8. [eighth Example](code-102/class-08.md)
+8. [Operators and Loops](code-102/class-08.md)
 
 ## code 201 Reading Notes
 
