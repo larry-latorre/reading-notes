@@ -6,7 +6,7 @@ This site contains all of my reading notes from my software development class.
 
 ## Table of Contents
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 1. [Text editor vs Coding-specific text editor VS IDE](code-102/class-01.md)
 
@@ -24,7 +24,7 @@ This site contains all of my reading notes from my software development class.
 
 8. [Operators and Loops](code-102/class-08.md)
 
-## code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 1. [Text editor vs Coding-specific text editor  VS IDE](code-201/class-01.md)
 
@@ -55,3 +55,7 @@ This site contains all of my reading notes from my software development class.
 14. [Fourth Example](code-201/class-14.md)
 
 15. [Fourth Example](code-201/class-15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
