@@ -26,9 +26,9 @@ This site contains all of my reading notes from my software development class.
 
 ## Code 201 - Foundations of Software Development
 
-1. [Text editor vs Coding-specific text editor  VS IDE](code-201/class-01.md)
+1. [Introduction to HTML](code-201/class-01.md)
 
-2. [Learning Markdown For Beginner's](code-201/class-02.md)
+2. [](code-201/class-02.md)
 
 3. [Third Example](code-201/class-03.md)
 
