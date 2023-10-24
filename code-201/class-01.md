@@ -40,7 +40,7 @@ An HTML an attribute is a characteristic or property of an HTML element that pro
 
 Opening Tag: An HTML element starts with an opening tag enclosed in angle brackets.
 
-Attributes: Attributes provide additional information about the element and are included within the opening tag. 
+Attributes: Attributes provide additional information about the element and are included within the opening tag.
 
 Content: The content of the element is the actual information or text that the element represents.
 
@@ -90,12 +90,12 @@ Semantic tags in HTML provide several benefits that improve the structure, acces
 
 5.What is JavaScript?
 
-It is a core technology for building interactive and dynamic features on websites. 
+It is a core technology for building interactive and dynamic features on websites.
 
 6.Describe 2 things that require JavaScript in the Browser?
 
 Form Validation:
-JavaScript is often used to validate user input in HTML forms. 
+JavaScript is often used to validate user input in HTML forms.
 
 Dynamic Content:
 JavaScript enables the dynamic loading and manipulation of content on a web page without requiring a full page refresh.

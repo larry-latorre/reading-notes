@@ -1,4 +1,4 @@
-# HTML Text Fundamentals. HTML Advanced Text Formatting.
+# HTML Text Fundamentals. HTML Advanced Text Formatting
 
 **Why is it important to use semantic elements in our HTML?**
 
@@ -23,11 +23,8 @@ When using the `<abbr>` element in HTML, you should include the title attribute 
 The basic structure of CSS:
 
 * Selector
-
 * Declaration Block
-
 * Property
-
 * Value
 
 **What are ways we can apply CSS to our HTML?**
@@ -84,4 +81,40 @@ padding: 5px;
 
 **Which components are considered properties?**
 
-color and padding
+Color and Padding
+
+## Learn JS
+
+**What data type is a sequence of text enclosed in single quote marks?**
+
+String
+
+**List 4 types of JavaScript operators.**
+
+* Arithmetic
+* Comparison
+* Logical
+* Assignment
+
+**Describe a real world Problem you could solve with a Function.**
+
+You can create a function that helps with inventory management for a retail store.
+
+**Making Decisions In Your Code – Conditionals.**
+
+An if statement checks a condition and if it evaluates to true, then the code block will execute.
+
+**What is the use of an else if?**
+
+ It allows you to test multiple conditions in a structured way.
+
+**List 3 different types of comparison operators.**
+
+Equal ==
+Not equal !=
+Greater than >
+
+**What is the difference between the logical operator && and ||?**
+
+ AND (&&) - Returns true if both operands are true.
+ OR (||) - Returns true if at least one of the operands is true.
