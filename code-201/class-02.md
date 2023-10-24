@@ -114,7 +114,7 @@ Equal ==
 Not equal !=
 Greater than >
 
-**What is the difference between the logical operator (&&) and (||)?**
+What is the difference between the logical operator (&&) and (||)?
 
  AND (&&) - Returns true if both operands are true.
  OR (||) - Returns true if at least one of the operands is true.
