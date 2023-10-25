@@ -30,7 +30,7 @@ This site contains all of my reading notes from my software development class.
 
 2. [Introduction to HTML](code-201/class-02.md)
 
-3. [Third Example](code-201/class-03.md)
+3. [Learn HTML, Learn CSS, Learn JS](code-201/class-03.md)
 
 4. [Fourth Example](code-201/class-04.md)
 
