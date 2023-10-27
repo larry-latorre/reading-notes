@@ -34,7 +34,7 @@ This site contains all of my reading notes from my software development class.
 
 4. [HTML Links, JS Functions, and Intro to CSS Layout](code-201/class-04.md)
 
-5. [Fourth Example](code-201/class-05.md)
+5. [Images, Color, Text](code-201/class-05.md)
 
 6. [Fourth Example](code-201/class-06.md)
 
