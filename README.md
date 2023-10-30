@@ -36,7 +36,7 @@ This site contains all of my reading notes from my software development class.
 
 5. [Images, Color, Text](code-201/class-05.md)
 
-6. [Fourth Example](code-201/class-06.md)
+6. [Problem Domain, Objects, and the DOM.](code-201/class-06.md)
 
 7. [Fourth Example](code-201/class-07.md)
 
