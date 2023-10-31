@@ -38,7 +38,7 @@ This site contains all of my reading notes from my software development class.
 
 6. [Problem Domain, Objects, and the DOM.](code-201/class-06.md)
 
-7. [Fourth Example](code-201/class-07.md)
+7. [Domain Modeling](code-201/class-07.md)
 
 8. [Fourth Example](code-201/class-08.md)
 
