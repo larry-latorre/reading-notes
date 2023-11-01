@@ -40,7 +40,7 @@ This site contains all of my reading notes from my software development class.
 
 7. [Domain Modeling](code-201/class-07.md)
 
-8. [Fourth Example](code-201/class-08.md)
+8. [CSS Layout](code-201/class-08.md)
 
 9. [Fourth Example](code-102/class-09.md)
 
