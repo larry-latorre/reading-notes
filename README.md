@@ -42,7 +42,7 @@ This site contains all of my reading notes from my software development class.
 
 8. [CSS Layout](code-201/class-08.md)
 
-9. [Forms and JS Events](code-102/class-09.md)
+9. [Forms and JS Events](code-201/class-09.md)
 
 10. [Fourth Example](code-201/class-10.md)
 
