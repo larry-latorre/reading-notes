@@ -65,7 +65,7 @@ The event type
 
 The event object is a fundamental concept in JavaScript when handling events. It represents the state and properties of an event that occurs, such as a mouse click, keyboard input, or any other interaction with a web page. It provides information about the event, such as the type of event, the target element that triggered the event, and additional data related to the event.
 
-The target property within the event object is particularly useful because it allows you to identify the specific HTML element that triggered the event. When an event occurs, the target element is the one on which the event was originally invoked. 
+The target property within the event object is particularly useful because it allows you to identify the specific HTML element that triggered the event. When an event occurs, the target element is the one on which the event was originally invoked.
 
 **What is the difference between event bubbling and event capturing?**
 

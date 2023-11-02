@@ -15,9 +15,9 @@ The main axis and cross axis are essential concepts in layout design. They help 
 
 While flexbox is a powerful tool for creating flexible and responsive layouts, it's essential to consider accessibility from the outset. Careful planning, proper use of semantic HTML, and testing with assistive technologies are key to ensuring that your flexbox-based designs are accessible to all users.
 
-### CSS Layout - Flexbox
+## CSS Layout Flexbox
 
-**“Flex-Flow Shorthand”**
+**Flex-Flow Shorthand.**
 
 **What are some advantages of using flexbox over float?**
 
@@ -32,4 +32,4 @@ Content-Centered Alignment
 
 **How does this topic connect with your long term goals.**
 
- Flexbox is a fundamental part of front-end web development. Understanding and mastering it will enhance my ability to create responsive and visually appealing user interfaces. 
+ Flexbox is a fundamental part of front-end web development. Understanding and mastering it will enhance my ability to create responsive and visually appealing user interfaces.
