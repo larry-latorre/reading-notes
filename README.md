@@ -44,7 +44,7 @@ This site contains all of my reading notes from my software development class.
 
 9. [Forms and JS Events](code-201/class-09.md)
 
-10. [Fourth Example](code-201/class-10.md)
+10. [Debugging](code-201/class-10.md)
 
 11. [Fourth Example](code-201/class-11.md)
 
