@@ -48,7 +48,7 @@ This site contains all of my reading notes from my software development class.
 
 11. [Audio, Video, Images](code-201/class-11.md)
 
-12. [Fourth Example](code-201/class-12.md)
+12. [Chart.js, Canvas](code-201/class-12.md)
 
 13. [Fourth Example](code-201/class-13.md)
 
