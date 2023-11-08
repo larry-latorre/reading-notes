@@ -50,7 +50,7 @@ This site contains all of my reading notes from my software development class.
 
 12. [Chart.js, Canvas](code-201/class-12.md)
 
-13. [Fourth Example](code-201/class-13.md)
+13. [Local Storage and How To Use It On Websites](code-201/class-13.md)
 
 14. [Fourth Example](code-201/class-14.md)
 
