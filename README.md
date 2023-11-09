@@ -52,7 +52,9 @@ This site contains all of my reading notes from my software development class.
 
 13. [Local Storage and How To Use It On Websites](code-201/class-13.md)
 
-14. [Fourth Example](code-201/class-14.md)
+14. [Fourth Example](code-201/class-14a.md)
+
+14. [Psychological Safety](code-201/class-14b.md)
 
 15. [Fourth Example](code-201/class-15.md)
 
