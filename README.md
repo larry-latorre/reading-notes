@@ -60,7 +60,7 @@ This site contains all of my reading notes from my software development class.
 
 ## Code 301 - Intermediate Software Development
 
-1. [](code-301/class-01.md)
+1. [Introduction to React and Components](code-301/class-01.md)
 
 
 ## Code 401 - Advanced Software Development
