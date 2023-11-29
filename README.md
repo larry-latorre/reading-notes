@@ -64,6 +64,6 @@ This site contains all of my reading notes from my software development class.
 
 2. [State and Props](code-301/class-02.md)
 
-3. [State and Props](code-301/class-03.md)
+3. [Passing Functions as Props](code-301/class-03.md)
 
 ## Code 401 - Advanced Software Development
