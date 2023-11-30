@@ -54,9 +54,9 @@ This site contains all of my reading notes from my software development class.
 
 14. [Fourth Example](code-201/class-14a.md)
 
-14. [Psychological Safety](code-201/class-14b.md)
+15. [Psychological Safety](code-201/class-14b.md)
 
-15. [Fourth Example](code-201/class-15.md)
+16. [Fourth Example](code-201/class-15.md)
 
 ## Code 301 - Intermediate Software Development
 
@@ -65,5 +65,7 @@ This site contains all of my reading notes from my software development class.
 2. [State and Props](code-301/class-02.md)
 
 3. [Passing Functions as Props](code-301/class-03.md)
+
+4. [React and Forms](code-301/class-04.md)
 
 ## Code 401 - Advanced Software Development
