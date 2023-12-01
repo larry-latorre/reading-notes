@@ -68,4 +68,6 @@ This site contains all of my reading notes from my software development class.
 
 4. [React and Forms](code-301/class-04.md)
 
+5. [Putting it all together](code-301/class-05.md)
+
 ## Code 401 - Advanced Software Development
