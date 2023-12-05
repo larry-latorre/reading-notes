@@ -72,7 +72,7 @@ This site contains all of my reading notes from my software development class.
 
 6. [REST](code-301/class-06.md)
 
-7. [Putting it all together](code-301/class-07.md)
+7. [NODE.JS](code-301/class-07.md)
 
 8. [Putting it all together](code-301/class-08.md)
 
