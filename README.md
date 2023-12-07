@@ -74,7 +74,7 @@ This site contains all of my reading notes from my software development class.
 
 7. [NODE.JS](code-301/class-07.md)
 
-8. [Putting it all together](code-301/class-08.md)
+8. [APIs](code-301/class-08.md)
 
 9. [Putting it all together](code-301/class-09.md)
 

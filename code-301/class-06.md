@@ -40,7 +40,6 @@ The PUT method in HTTP is used to either create a new resource or update an exis
 
 **What does PATCH do?**
 
-
 The PATCH method in HTTP is used to apply partial modifications to a resource. It allows clients to specify changes or updates to a resource without requiring the entire resource to be sent. PATCH requests are idempotent, meaning multiple identical requests have the same effect as a single request. Data for the partial update is sent in the request body, typically in JSON or another format, and the specified URI indicates the location of the resource to be partially updated. PATCH is particularly useful when making incremental changes to a resource without transmitting the entire data set.
 
 ### API Keys
