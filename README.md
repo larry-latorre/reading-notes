@@ -76,6 +76,6 @@ This site contains all of my reading notes from my software development class.
 
 8. [APIs](code-301/class-08.md)
 
-9. [Putting it all together](code-301/class-09.md)
+9. [Functional Programming](code-301/class-09.md)
 
 ## Code 401 - Advanced Software Development
